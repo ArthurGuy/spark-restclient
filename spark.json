@@ -1,0 +1,7 @@
+{
+  "name": "spark-rest-client",
+  "author": "",
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "A rest client library forked from llad/spark-restclient"
+}
